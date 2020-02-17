@@ -1,0 +1,78 @@
+INFO - navigated to :URLofCustomWords
+INFO - Entered the input: admin
+INFO - Entered the input: admin123
+INFO - Clicked on element with ObjectName: submit
+INFO - Sleep for: 2000 Seconds
+INFO - Clicked on element with ObjectName: EnableCustomWordsRadioBtn
+INFO - Sleep for: 2000 Seconds
+INFO - Cleared the text in the element with ObjectName: CourseLowerCase and entered input: stream
+INFO - Sleep for: 2000 Seconds
+INFO - Cleared the text in the element with ObjectName: CourseLowerCasePlural and entered input: streams
+INFO - Sleep for: 2000 Seconds
+INFO - Cleared the text in the element with ObjectName: BatchLowerCase and entered input: semester
+INFO - Sleep for: 2000 Seconds
+INFO - Cleared the text in the element with ObjectName: BatchLowerCasePlural and entered input: semesters
+INFO - Sleep for: 2000 Seconds
+INFO - Cleared the text in the element with ObjectName: SubjectLowerCase and entered input: subject
+INFO - Sleep for: 2000 Seconds
+INFO - Cleared the text in the element with ObjectName: SubjectLowerCasePlural and entered input: subjects
+INFO - Sleep for: 2000 Seconds
+INFO - Clicked on element with ObjectName: submit
+INFO - Sleep for: 1500 Seconds
+INFO -  Browser closed 
+INFO - navigated to :URLofAcademicYear
+INFO - Entered the input: admin
+INFO - Entered the input: admin123
+INFO - Clicked on element with ObjectName: submit
+INFO - Clicked on element with ObjectName: newAcademicYear
+INFO - Clicked on element with ObjectName: clickOnStartDate
+INFO - Selected option with string: September in the select box with ObjectName: selectDobMonth
+INFO - Selected option with integer value: 2019 in the select box with ObjectName: selectDobYear
+INFO - Clicked on element with ObjectName: datepick
+INFO - Clicked on element with ObjectName: clickOnEndDate
+INFO - Selected option with string: November in the select box with ObjectName: selectDobMonth
+INFO - Selected option with integer value: 2020 in the select box with ObjectName: selectDobYear
+INFO - Clicked on element with ObjectName: datepick2
+INFO - Sleep for: 2000 Seconds
+INFO - Clicked on element with ObjectName: submit
+INFO - Sleep for: 2000 Seconds
+INFO - Sleep for: 1500 Seconds
+INFO -  Browser closed 
+INFO - navigated to :URLofStudentCategories
+INFO - Entered the input: admin
+INFO - Entered the input: admin123
+INFO - Clicked on element with ObjectName: submit
+INFO - Sleep for: 1000 Seconds
+INFO - Entered the input: CategoryOne
+INFO - Sleep for: 1000 Seconds
+INFO - Clicked on element with ObjectName: submit
+INFO - Sleep for: 1500 Seconds
+INFO - Entered the input: CategoryTwo
+INFO - Sleep for: 1000 Seconds
+INFO - Clicked on element with ObjectName: submit
+INFO - Sleep for: 1500 Seconds
+INFO -  Browser closed 
+INFO - navigated to :URLofEmpCategory
+INFO - Entered the input: admin
+INFO - Entered the input: admin123
+INFO - Clicked on element with ObjectName: submit
+INFO - Sleep for: 2000 Seconds
+INFO - Entered the input: General
+INFO - Sleep for: 2000 Seconds
+INFO - Entered the input: GL
+INFO - Sleep for: 2000 Seconds
+INFO - Clicked on element with ObjectName: employeecategorycreatebutton
+INFO - Sleep for: 2000 Seconds
+INFO - navigated to :URLofEmployeePosition
+INFO - Sleep for: 2000 Seconds
+INFO - Entered the input: developer
+INFO - Sleep for: 2000 Seconds
+INFO - Selected option with string: General in the select box with ObjectName: employeecategoryselect
+INFO - Sleep for: 2000 Seconds
+INFO - Clicked on element with ObjectName: employeepositioncreatebutton
+INFO - Sleep for: 2000 Seconds
+INFO - navigated to :URLofEmployeeDepartment
+INFO - Sleep for: 2000 Seconds
+INFO - Entered the input: HR
+INFO - Sleep for: 2000 Seconds
+INFO - Entered the input: Hr

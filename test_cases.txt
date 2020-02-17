@@ -1,0 +1,27 @@
+1.  customWords
+2.  AcademicYear
+3.  StudentCategory
+4.  HrSettings
+5.  EmployeeAdmission
+6.  Program and Stream creation
+7.  Create_Course_Category
+8.  addCourses
+9.  VerifyAndApproveCurricula1
+10. StudentAdmission
+11. AcademicSemester
+12. Cohort
+13. CohortUpload
+14. CoursesInCurrentSemester-Verify&Approve
+15. WindowFrame-PreRequisite
+16. BacklogStudents-FileUpload, Import Logs, Scheduled Jobs
+17. BacklogStudents-Bulk EditNavigation
+18. PreRegistrationAdminNStudent-Submit Registration Form
+19. WindowFrame-PreRequisite
+20. SemesterEnrollment- COTnFAApproval
+21. WindowFrame-PreRequisite
+22. SemesterEnrollment-DropApproval
+23. WindowFrame-PreRequisite
+24. Student'sAddDrop-Interface
+25. WindowFrame-PreRequisite
+26. Student'sDrop- Interface
+27. Course_Records
